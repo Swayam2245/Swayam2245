@@ -12,6 +12,7 @@ Namaste 🙏🏻, I am Swayam. I am a high-school student, I love to code, draw,
 <li> <a href="https://discord.com/users/808255522019999766">Discord</a>
 <li> <a href="https://open.spotify.com/user/31wkqwzaxvitk7sgzklvcnm5sbtq?si=4XkJutdfRqSCdt3Qyc0ZzQ&utm_source=copy-link">Spotify</a> 
 <li> <a href="https://github.com/Swayam2245">GitHub</a>
+<li> <a href="https://replit.com/@Swayam2245">Replit</a>
 
 <strong>📜 My Creations:</strong>
 <li> <a href="https://github.com/prakarsh17/tessarect-bot">Tesserect Discord Bot</a>
