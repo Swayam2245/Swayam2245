@@ -2,6 +2,7 @@ Namaste 🙏🏻, I am Swayam. I am a high-school student, I love to code, draw,
 
 <strong>💻 Languages Known By Me:</strong>
   <li> Python
+  <li> PyScript
   <li> Java
   <li> HTML
   <li> CSS
