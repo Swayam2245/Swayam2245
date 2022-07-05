@@ -1,24 +1,27 @@
 Namaste 🙏🏻, I am Swayam. I am a high-school student, I love to code, draw, listen music and sometimes play games.
 
-<strong>💻 Languages Known By Me:</strong>
-  <li> Python
-  <li> PyScript
-  <li> Java
-  <li> HTML
-  <li> CSS
-  <li> JSON
-  <li> SH
+### 💻 Languages Known By Me
+- Python
+- PyScript
+- Java
+- HTML
+- CSS
+- JSON
+- SH
 
-<strong>📫 Social Media Platforms:</strong>
-<li> <a href="https://discord.com/users/808255522019999766">Discord</a>
-<li> <a href="https://open.spotify.com/user/31wkqwzaxvitk7sgzklvcnm5sbtq?si=4XkJutdfRqSCdt3Qyc0ZzQ&utm_source=copy-link">Spotify</a> 
-<li> <a href="https://github.com/Swayam2245">GitHub</a>
-<li> <a href="https://replit.com/@Swayam2245">Replit</a>
+### 📫 Social Media Platforms
+- [Discord](https://discord.com/users/808255522019999766)
+- [Spotify](https://open.spotify.com/user/31wkqwzaxvitk7sgzklvcnm5sbtq?si=4XkJutdfRqSCdt3Qyc0ZzQ&utm_source=copy-link) 
+- [GitHub](https://github.com/Swayam2245)
+- [Replit](https://replit.com/@Swayam2245)
 
-<strong>📜 My Creations:</strong>
-<li> <a href="https://github.com/prakarsh17/tessarect-bot">Tesserect Discord Bot</a>
+### 📜 My Creations
+- [Tessarect Discord Bot](https://dsc.gg/tessarect)
 
-<strong>📊 GitHub Stats:</strong>
+### 🗨️ Quote
+**Practice beats talent when talent doesn't practice.**
+
+### 📊 GitHub Stats
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Swayam2245&show_icons=true&theme=gotham" alt="Swayam"/>
 </p>
