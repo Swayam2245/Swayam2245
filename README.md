@@ -5,8 +5,9 @@ Namaste 🙏🏻, I am Swayam. I am a high-school student, I love to code, draw,
 - PyScript
 - HTML
 - CSS
+- Markdown
+- Bash
 - JSON
-- SH
 
 ### 📫 Social Media Platforms
 - [Discord](https://discord.com/users/808255522019999766)
@@ -14,6 +15,7 @@ Namaste 🙏🏻, I am Swayam. I am a high-school student, I love to code, draw,
 - [GitHub](https://github.com/Swayam2245)
 
 ### 📊 GitHub Stats
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Swayam2245&show_icons=true&theme=gotham" alt="Swayam"/>
-</p>
+![Swayam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Swayam2245&show_icons=true&theme=radical)
+
+### 📌 Top Languages Used
+![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=Swayam2245&layout=compact)
